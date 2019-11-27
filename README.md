@@ -11,6 +11,7 @@ npm install
 and then
 
 ```sh
+cd app
 npm run dev
 ```
 

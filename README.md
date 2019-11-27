@@ -6,12 +6,12 @@
 OS X & Linux:
 
 ```sh
+cd app
 npm install
 ```
 and then
 
 ```sh
-cd app
 npm run dev
 ```
 

@@ -5,7 +5,7 @@
 
 ## Installation
 
-You will need lates node
+You will need latest node
 
 OS X & Linux:
 

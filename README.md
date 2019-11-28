@@ -1,7 +1,11 @@
 # Health Check for Black Friday
 > Its a simple app to check if main sites are on-line
 
+![](img.png)
+
 ## Installation
+
+You will need lates node
 
 OS X & Linux:
 
